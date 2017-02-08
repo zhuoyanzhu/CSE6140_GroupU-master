@@ -1,0 +1,1 @@
+The useage must be exec -inst <filename> -alg BnB|MSTApprox|Heur|LS1|LS2 -time <cutoff_in_seconds> -seed <random_seed>
