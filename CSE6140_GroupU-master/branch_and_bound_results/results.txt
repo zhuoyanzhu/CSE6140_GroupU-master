@@ -1,0 +1,41 @@
+Branch and Bound:
+Atlanta: 2003763
+Boston: 894588
+Champaign: 52643
+Cincinnati: 277952
+Denver: 100431
+NYC: 1753533
+Philadelphia: 1395981
+Roanoke: Did not finish
+SanFrancisco: 810196
+Toronto: 1178791
+UKansasState: 62962
+UMissouri: 134670
+
+RelErr:
+Atlanta: 0
+Boston: 0.03596
+Champaign: 0
+Cincinnati: 0
+Denver: 0
+NYC: 0.1276
+Philadelphia: 0
+Roanoke: N/A
+SanFrancisco: 0
+Toronto: 0.0022
+UKansasState: 0
+UMissouri: 0.01478
+
+Optimal:
+Atlanta: 2003763
+Boston: 863536
+Champaign: 52643
+Cincinnati: 277952
+Denver: 100431
+NYC: 1555060
+Philadelphia: 1395981
+Roanoke: 655454
+SanFrancisco: 810196
+Toronto: 1176151
+UKansasState: 62962
+UMissouri: 132709
